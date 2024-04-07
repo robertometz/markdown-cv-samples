@@ -7,6 +7,7 @@ Experienced Mobile Engineer proficient in developing native Android and iOS appl
 - Android Development (Java, Kotlin)
 - iOS Development (Swift, Objective-C)
 - Cross-Platform Development (React Native, Flutter)
+- UI testing frameworks (Appium, Espresso, and XCUITest)
 - UI/UX Design Principles
 - RESTful APIs Integration
 - Firebase Integration (Analytics, Cloud Messaging, Authentication)
